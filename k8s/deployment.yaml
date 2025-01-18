@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: gashok13193/end-to-end:22
+        image: ebotsmith/demo:15
         ports:
         - containerPort: 8080
 ---
